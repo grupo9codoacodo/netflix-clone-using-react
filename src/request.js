@@ -1,4 +1,4 @@
-const API_KEY = "a3862ca74514590e3971df18caf10d15";
+const API_KEY = "800129ae9583bea7c0b399f1f6078c6d";
 
 const requests = {
     fetchTrending: `/trending/all/week?api_key=${API_KEY}&language=en-US`,
