@@ -17,7 +17,7 @@ import { seedDatabase } from '../seed';
 // };
 
 // Your web app's Firebase configuration
-const firebaseConfig = {
+const config = {
   apiKey: "AIzaSyDQ9EvhP7IOdW6QoiqSj0jpnfPiY2Ysoiw",
   authDomain: "tpgrupo9.firebaseapp.com",
   projectId: "tpgrupo9",
