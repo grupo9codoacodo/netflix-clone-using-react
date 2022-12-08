@@ -19,7 +19,7 @@ import { seedDatabase } from '../seed';
 // Your web app's Firebase configuration
 const config = {
   apiKey: "AIzaSyDQ9EvhP7IOdW6QoiqSj0jpnfPiY2Ysoiw",
-  authDomain: "tpgrupo9.firebaseapp.com",
+  authDomain: "tpgrupo9react.netlify.app",
   projectId: "tpgrupo9",
   storageBucket: "tpgrupo9.appspot.com",
   messagingSenderId: "1082044343072",
